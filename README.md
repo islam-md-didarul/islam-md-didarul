@@ -1,4 +1,4 @@
-# Md. Didarul Islam  
+# 👋 Hi, I am Md. Didarul Islam  
 > PhD Student, Department of Mechanical & Aerospace Engineering, GNU, South Korea || Senior Lecturer, Department of Mechanical Engineering (On Study Leave), IUBAT, Bangladesh
 
 <p align="center">
