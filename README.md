@@ -30,23 +30,23 @@ My research explores:
 ## 📚 Publications  
 
 **Turbomachinery**
-- [Effects of cavitation and erosion on submersible drainage-A numerical study](https://doi.org/10.1063/5.0223126)
-- [Optimized impeller hydraulic performance of submersible drainage pumps-An experimental study](https://doi.org/10.1063/5.0243408)
-- [Cavitation and erosion effects on hydraulic performances of a submersible drainage pump](https://doi.org/10.1016/j.aej.2024.11.060)
-- [Numerical Simulation of Solid Liquid Two‐Phase Flow Analysis of Submersible Drainage Pumps](https://doi.org/10.1002/ird.3119)
-- [Back-turn Approach for Optimal Operation of Booster Pump Systems](https://doi.org/10.47176/jafm.18.9.3428)
+- [Effects of cavitation and erosion on submersible drainage-A numerical study](https://doi.org/10.1063/5.0223126) [*Physic of Fluids*] [SCIE] [**Q1**] [IF-4.3]
+- [Optimized impeller hydraulic performance of submersible drainage pumps-An experimental study](https://doi.org/10.1063/5.0243408) [*Physic of Fluids*] [SCIE] [**Q1**] [IF-4.3]
+- [Cavitation and erosion effects on hydraulic performances of a submersible drainage pump](https://doi.org/10.1016/j.aej.2024.11.060) [*Alexandria Engineering Journal*] [SCIE] [**Q1**] [IF-6.8]
+- [Numerical Simulation of Solid Liquid Two‐Phase Flow Analysis of Submersible Drainage Pumps](https://doi.org/10.1002/ird.3119) [*Irrigation and Drainage*] [SCIE] [**Q2**] [IF-1.7]
+- [Back-turn Approach for Optimal Operation of Booster Pump Systems](https://doi.org/10.47176/jafm.18.9.3428) [*Journal of Applied Fluid Mechanics*] [SCIE] [**Q3**] [IF-1.3]
 
 **Biofluids**
-- [Evaluation of renovated double J stents using ureter models with and without stenosis](https://doi.org/10.1007/s00345-024-04920-7)
-- [A new approach to evaluate obstructive sleep apnea according to body mass index using breathing diagram](https://doi.org/10.1063/5.0223081)
-- [Experimental and CFD analysis of flow impediments and encrustation in ureteral stents using in vitro urinary tract model](https://doi.org/10.1038/s41598-025-04248-1)
-- [Thrombin-induced thrombosis models for ultrasound-guided thrombin injection of femoral artery pseudoaneurysms](https://doi.org/10.1063/5.0279546)
+- [Evaluation of renovated double J stents using ureter models with and without stenosis](https://doi.org/10.1007/s00345-024-04920-7) [*World Journal of Urology*] [SCIE] [**Q1**] [IF-2.9]
+- [A new approach to evaluate obstructive sleep apnea according to body mass index using breathing diagram](https://doi.org/10.1063/5.0223081) [*Physic of Fluids*] [SCIE] [**Q1**] [IF-4.3]
+- [Experimental and CFD analysis of flow impediments and encrustation in ureteral stents using in vitro urinary tract model](https://doi.org/10.1038/s41598-025-04248-1) [*Scientific Reports*] [SCIE] [**Q1**] [IF-3.9]
+- [Thrombin-induced thrombosis models for ultrasound-guided thrombin injection of femoral artery pseudoaneurysms](https://doi.org/10.1063/5.0279546) [*Physic of Fluids*] [SCIE] [**Q1**] [IF-4.3]
 
 **Composite Materials**
-- [Analysis of epoxy composites reinforced with jute, banana, and coconut fibers and enhanced with Rubik's layer: tensile, bending, and impact performance evaluation](https://doi.org/10.1016/j.jmbbm.2023.106151)
-- [The Development of Eco-Friendly Biopolymers for Use in Tissue Engineering and Drug Delivery](https://doi.org/10.1155/2023/9270064)
-- [Synthesis and applications of natural fiber reinforced epoxy composites-A comprehensive review](https://doi.org/10.1002/pls2.10161)
-- [Additive manufacturing in bone science A cutting-edge review of its potential and progress](https://doi.org/10.1016/j.medntd.2025.100379)
+- [Analysis of epoxy composites reinforced with jute, banana, and coconut fibers and enhanced with Rubik's layer: tensile, bending, and impact performance evaluation](https://doi.org/10.1016/j.jmbbm.2023.106151) [*Journal of the Mechanical Behavior of Biomedical Materials*] [SCIE] [**Q2**] [IF-3.5]
+- [The Development of Eco-Friendly Biopolymers for Use in Tissue Engineering and Drug Delivery](https://doi.org/10.1155/2023/9270064) [*Journal of Nano Materials*] [Scopus] [**Q2**] [IF-2.8]
+- [Synthesis and applications of natural fiber reinforced epoxy composites-A comprehensive review](https://doi.org/10.1002/pls2.10161) [*SPE Polymers*] [Scopus] [**Q2**] [IF-0.6]
+- [Additive manufacturing in bone science A cutting-edge review of its potential and progress](https://doi.org/10.1016/j.medntd.2025.100379) [*Medicine in Novel Technology and Devices*] [Scopus] [**Q2**] [IF-1.6]
 ---
 
 ## 🏆 Honors & Awards  
@@ -109,7 +109,7 @@ My research explores:
   </a>
 </p>
 
-<p align="center">  <!-- Followers (live via Shields) -->  <a href="https://github.com/islam-md-didarul?tab=followers">    <img alt="Followers"         src="https://img.shields.io/github/followers/islam-md-didarul?label=Followers&style=for-the-badge&color=0A66C2&labelColor=20232a">  </a>  &nbsp;  <!-- Profile Views (3rd-party counter) -->  <img alt=" Profile Views"       src="https://komarev.com/ghpvc/?username=islam-md-didarul&style=for-the-badge&color=0A66C2&label=Profile%20Views"> </p>
+<p align="center">  <!-- Followers (live via Shields) -->  <a href="https://github.com/islam-md-didarul?tab=followers">    <img alt="Followers"         src="https://img.shields.io/github/followers/islam-md-didarul?label=Followers&style=for-the-badge&color=0A66C2&labelColor=20232a">  </a> &nbsp;<!-- Profile Views (3rd-party counter) -->  <img alt="Profile Views"       src="https://komarev.com/ghpvc/?username=islam-md-didarul&style=for-the-badge&color=0A66C2&label=Profile%20Views"> </p>
 
 ✨✨✨ *My aim is to analyze Engineering flows, optimizing machines, and innovating across biofluid and aerospace systems.*  ✨✨✨
 
