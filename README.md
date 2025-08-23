@@ -67,27 +67,27 @@ My research explores:
 ## 👨‍🏫 Experience  
 
 ### 🎓 Research  
-- **Doctoral Research Assistant** – GNU (September 2025 – August 2028)  
+- **Doctoral Research Assistant** – GNU (*September 2025 – August 2028*)  
   - Funded by Glocal University 30 Project; working on CFD and biofluid projects.  
-- **Graduate Research Assistant** – GNU (September 2023 – August 2025)  
+- **Graduate Research Assistant** – GNU (*September 2023 – August 2025*)  
   - Biofluid experiments (ureteral tract models, pseudoaneurysm clotting, airflow dynamics)  
   - Turbomachinery optimization of submersible drainage pumps  
   - NRF-funded projects on **thrombin injection strategies** and **ureteral stent performance**  
 
 ### 👩‍🏫 Teaching  
-- **Senior Lecturer** – IUBAT (January 2022 – August 2023)  
+- **Senior Lecturer** – IUBAT (*January 2022 – August 2023*)  
   - Taught Engineering Mechanics, Materials Science, and Manufacturing Engineering
   - Supervised theses, projects, and practicums
-- **Lecturer** – IUBAT (January 2020 – December 2021)  
+- **Lecturer** – IUBAT (*January 2020 – December 2021*)  
   - Taught Mechanical Engineering Drawing, Basic Thermodynamics  
   - Curriculum development aligned with BAETE accreditation
-- **Instructor** – Pubergaon Polytechnic Institute (January 2018 – December 2018)  
+- **Instructor** – Pubergaon Polytechnic Institute (*January 2018 – December 2018*)  
   - Taught diploma courses in Mechanical Technology 
 
 ### 🛠 Industry  
-- **Assistant Engineer (Mechanical)** – Shams Engineering (January 2019 – December 2019)  
+- **Assistant Engineer (Mechanical)** – Shams Engineering (*January 2019 – December 2019*)  
   - Fire Pump Room & Plumbing System design and supervision  
-- **Internship Trainee** – Minister Hi-Tech Park (September 2017 – December 2017)
+- **Internship Trainee** – Minister Hi-Tech Park (*September 2017 – December 2017*)
 ---
 
 ## 🌐 Connect with Me  
