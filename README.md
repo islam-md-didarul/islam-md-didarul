@@ -30,17 +30,17 @@ My research explores:
 ## 📚 Publications  
 
 **Turbomachinery**
-- [Effects of cavitation and erosion on submersible drainage-A numerical study](https://doi.org/10.1063/5.0223126) [*Physic of Fluids*] [SCIE] [**Q1**] [IF-4.3]
-- [Optimized impeller hydraulic performance of submersible drainage pumps-An experimental study](https://doi.org/10.1063/5.0243408) [*Physic of Fluids*] [SCIE] [**Q1**] [IF-4.3]
+- [Effects of cavitation and erosion on submersible drainage-A numerical study](https://doi.org/10.1063/5.0223126) [*Physics of Fluids*] [SCIE] [**Q1**] [IF-4.3]
+- [Optimized impeller hydraulic performance of submersible drainage pumps-An experimental study](https://doi.org/10.1063/5.0243408) [*Physics of Fluids*] [SCIE] [**Q1**] [IF-4.3]
 - [Cavitation and erosion effects on hydraulic performances of a submersible drainage pump](https://doi.org/10.1016/j.aej.2024.11.060) [*Alexandria Engineering Journal*] [SCIE] [**Q1**] [IF-6.8]
 - [Numerical Simulation of Solid Liquid Two‐Phase Flow Analysis of Submersible Drainage Pumps](https://doi.org/10.1002/ird.3119) [*Irrigation and Drainage*] [SCIE] [**Q2**] [IF-1.7]
 - [Back-turn Approach for Optimal Operation of Booster Pump Systems](https://doi.org/10.47176/jafm.18.9.3428) [*Journal of Applied Fluid Mechanics*] [SCIE] [**Q3**] [IF-1.3]
 
 **Biofluids**
 - [Evaluation of renovated double J stents using ureter models with and without stenosis](https://doi.org/10.1007/s00345-024-04920-7) [*World Journal of Urology*] [SCIE] [**Q1**] [IF-2.9]
-- [A new approach to evaluate obstructive sleep apnea according to body mass index using breathing diagram](https://doi.org/10.1063/5.0223081) [*Physic of Fluids*] [SCIE] [**Q1**] [IF-4.3]
+- [A new approach to evaluate obstructive sleep apnea according to body mass index using breathing diagram](https://doi.org/10.1063/5.0223081) [*Physics of Fluids*] [SCIE] [**Q1**] [IF-4.3]
 - [Experimental and CFD analysis of flow impediments and encrustation in ureteral stents using in vitro urinary tract model](https://doi.org/10.1038/s41598-025-04248-1) [*Scientific Reports*] [SCIE] [**Q1**] [IF-3.9]
-- [Thrombin-induced thrombosis models for ultrasound-guided thrombin injection of femoral artery pseudoaneurysms](https://doi.org/10.1063/5.0279546) [*Physic of Fluids*] [SCIE] [**Q1**] [IF-4.3]
+- [Thrombin-induced thrombosis models for ultrasound-guided thrombin injection of femoral artery pseudoaneurysms](https://doi.org/10.1063/5.0279546) [*Physics of Fluids*] [SCIE] [**Q1**] [IF-4.3]
 
 **Composite Materials**
 - [Analysis of epoxy composites reinforced with jute, banana, and coconut fibers and enhanced with Rubik's layer: tensile, bending, and impact performance evaluation](https://doi.org/10.1016/j.jmbbm.2023.106151) [*Journal of the Mechanical Behavior of Biomedical Materials*] [SCIE] [**Q2**] [IF-3.5]
