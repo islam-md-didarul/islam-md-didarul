@@ -10,7 +10,7 @@
 
 ## 👨‍💻 About Me  
 
-I’m passionate about uncovering the **physics of biological and engineering flows** through the combined power of **Computational Fluid Dynamics (CFD)** and hands-on experiments.  
+I’m passionate about uncovering the **physics of biological and engineering fluid flows** through the combined power of **Computational Fluid Dynamics (CFD)** and hands-on experiments.  
 
 My research explores:  
 - ⚙️ **Turbomachinery** – hydraulic performance optimization, cavitation and erosion studies, pump design improvements 
