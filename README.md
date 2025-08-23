@@ -16,11 +16,11 @@ My research explores:
 
 ## 🌐 Connect with Me  
 
-🌎 Website: [me.iubat.edu/md-didarul-islam](https://me.iubat.edu/md-didarul-islam/)  
-💼 LinkedIn: [linkedin.com/in/islam-md-didarul](https://www.linkedin.com/in/islam-md-didarul)  
-🟢 ORCID: [0009-0009-8612-2802](https://orcid.org/0009-0009-8612-2802)  
-📘 Facebook: [facebook.com/didar566](https://www.facebook.com/didar566)  
-📧 Email: didar@gnu.ac.kr; me.didarul@gmail.com
+- 🌎 Website: [me.iubat.edu/md-didarul-islam](https://me.iubat.edu/md-didarul-islam/)  
+- 💼 LinkedIn: [linkedin.com/in/islam-md-didarul](https://www.linkedin.com/in/islam-md-didarul)  
+- 🟢 ORCID: [0009-0009-8612-2802](https://orcid.org/0009-0009-8612-2802)  
+- 📘 Facebook: [facebook.com/didar566](https://www.facebook.com/didar566)  
+- 📧 Email: didar@gnu.ac.kr; me.didarul@gmail.com
 ---
 
 ## 🛠️ Skills & Tools  
