@@ -124,7 +124,7 @@ My research explores:
 <p align="center">
   <!-- Main stats -->
   <img
-    src="https://github-readme-stats.vercel.app/api?username=islam-md-didarul&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&hide=issues&theme=radical"
+    src="https://github-readme-stats.vercel.app/api?username=islam-md-didarul&show_icons=true&include_a24_commits=true&count_private=true&rank_icon=github&hide=issues&theme=radical"
     alt="GitHub stats"
     height="165"
   />
