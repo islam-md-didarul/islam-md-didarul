@@ -93,7 +93,7 @@ My research explores:
 ## 🌐 Connect with Me  
 <p align="center">
   <a href="mailto:didar@gnu.ac.kr">
-    <img src="https://img.shields.io/badge/Email-s.didar.iubat%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-didar%40gnu.ac.kr-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://www.linkedin.com/in/islam-md-didarul" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-islam--md--didarul-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
