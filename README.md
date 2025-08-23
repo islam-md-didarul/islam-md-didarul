@@ -51,9 +51,9 @@ My research explores:
 
 ## 🏆 Honors & Awards  
 
-- 🥇 Young Pioneer Researcher Award  
-- 🏅 Best Presentation Award  
-- 🎖️ Academic Excellence Award
+- 🥇 "Young Pioneer Researcher Award 2025" by Gyeongsang National University 
+- 🏅 "Best Presentation Award" by IAHR-Asia 2025 Conference  
+- 🎖️ "Academic Excellence Award" - 7 times by IUBAT
 ---
 
 ## 🎓 Education  
