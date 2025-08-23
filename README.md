@@ -1,8 +1,7 @@
 # Md. Didarul Islam  
 
-> - 🎓 PhD Student in Mechanical & Aerospace Engineering, Gyeongsang National University, South Korea 
-> - 📚 Senior Lecturer, Department of Mechanical Engineering (On Study Leave), IUBAT—International University of Business Agriculture and Technology, Bangladesh
----
+> PhD Student, Department of Mechanical & Aerospace Engineering, GNU, South Korea || Senior Lecturer, Department of Mechanical Engineering (On Study Leave), IUBAT, Bangladesh
+
 <p align="center">
   <img
     src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=24&pause=1200&center=true&vCenter=true&width=900&lines=CFD+%E2%80%A2+Biofluids+%E2%80%A2+Turbomachinery+%E2%80%A2+Composites;Engineering+flows+with+CFD+%2B+Experiments;Open+to+research+collaborations"
@@ -23,9 +22,9 @@ My research explores:
 ## 🛠️ Skills & Tools  
 
 - **Core Expertise**: Teaching · Mechanical Design · Process Optimization  
+- **Simulation & Analysis**: ANSYS CFX · ICEM CFD · CAD Tools (NX, SolidWorks, AutoCAD)
 - **Programming & Data**: Python · MATLAB · C · Jupyter  
-- **Simulation & Analysis**: ANSYS CFX · ICEM CFD · CAD Tools (NX, SolidWorks, AutoCAD) 
-- **Research & Writing**: LaTeX · Technical Documentation · Academic Publishing  
+- **Research & Writing**: LaTeX · Mendeley · Academic Publishing  
 - **Other**: Git · Automation Tools  
 ---
 
@@ -69,25 +68,27 @@ My research explores:
 ## 👨‍🏫 Experience  
 
 ### 🎓 Research  
-- **Doctoral Research Assistant** – GNU (2025–Present)  
+- **Doctoral Research Assistant** – GNU (September 2025 – August 2028)  
   - Funded by Glocal University 30 Project; working on CFD and biofluid projects.  
-- **Graduate Research Assistant** – GNU (2023–2025)  
+- **Graduate Research Assistant** – GNU (September 2023 – August 2025)  
   - Biofluid experiments (ureteral tract models, pseudoaneurysm clotting, airflow dynamics)  
   - Turbomachinery optimization of submersible drainage pumps  
   - NRF-funded projects on **thrombin injection strategies** and **ureteral stent performance**  
 
 ### 👩‍🏫 Teaching  
-- **Senior Lecturer** – IUBAT (2022–2023)  
+- **Senior Lecturer** – IUBAT (January 2022 – August 2023)  
   - Taught Engineering Mechanics, Materials Science, and Manufacturing Engineering
   - Supervised theses, projects, practicums
-- **Lecturer** – IUBAT (2020–2021)  
+- **Lecturer** – IUBAT (January 2020 – December 2021)  
   - Taught Mechanical Engineering Drawing, Basic Thermodynamics  
-  - Curriculum development aligned with BAETE accreditation  
+  - Curriculum development aligned with BAETE accreditation
+- **Instructor** – Pubergaon Polytechnic Institute (January 2018 – December 2018)  
+  - Taught diploma courses in Mechanical Technology 
 
 ### 🛠 Industry  
-- **Assistant Engineer (Mechanical)** – Shams Engineering (2019)  
+- **Assistant Engineer (Mechanical)** – Shams Engineering (January 2019 – December 2019)  
   - Fire Pump Room & Plumbing System design and supervision  
-- **Internship Trainee** – Minister Hi-Tech Park (2017)
+- **Internship Trainee** – Minister Hi-Tech Park (September 2017 – December 2017)
 ---
 
 ## 🌐 Connect with Me  
@@ -109,4 +110,4 @@ My research explores:
   </a>
 </p>
 
-✨ *Engineering flows, optimizing machines, and innovating across biofluid and aerospace systems.*  
+✨✨✨✨ *My aim is to analyze Engineering flows, optimizing machines, and innovating across biofluid and aerospace systems.*  ✨✨✨✨
