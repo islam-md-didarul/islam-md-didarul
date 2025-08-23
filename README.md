@@ -1,7 +1,7 @@
 # Md. Didarul Islam  
 
-> 🎓 PhD Student in Mechanical & Aerospace Engineering, Gyeongsang National University, South Korea 
-> 📚 Senior Lecturer, Department of Mechanical Engineering (On Study Leave), IUBAT—International University of Business Agriculture and Technology, Bangladesh
+> - 🎓 PhD Student in Mechanical & Aerospace Engineering, Gyeongsang National University, South Korea 
+> - 📚 Senior Lecturer, Department of Mechanical Engineering (On Study Leave), IUBAT—International University of Business Agriculture and Technology, Bangladesh
 ---
 
 ## 👨‍💻 About Me  
