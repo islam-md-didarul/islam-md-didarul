@@ -111,7 +111,7 @@ My research explores:
 
 <p align="center">  <!-- Followers (live via Shields) -->  <a href="https://github.com/islam-md-didarul?tab=followers">    <img alt="Followers"         src="https://img.shields.io/github/followers/islam-md-didarul?label=Followers&style=for-the-badge&color=0A66C2&labelColor=20232a">  </a> &nbsp;<!-- Profile Views (3rd-party counter) -->  <img alt="Profile Views"       src="https://komarev.com/ghpvc/?username=islam-md-didarul&style=for-the-badge&color=0A66C2&label=Profile%20Views"> </p>
 
-✨✨✨ *My aim is to analyze Engineering flows, optimizing machines, and innovating across biofluid and aerospace systems.*  ✨✨✨
+✨✨✨ *I am passionate about analyzing fluid flows, optimizing machines, and innovating engineering across biofluid and aerospace systems.*  ✨✨✨
 
 ## 📊 GitHub Stats
 
