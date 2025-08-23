@@ -1,16 +1,96 @@
-## Hi there 👋
+# Md. Didarul Islam  
 
-<!--
-**islam-md-didarul/islam-md-didarul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> 🎓 PhD Student in Mechanical & Aerospace Engineering, Gyeongsang National University, South Korea 
+> 📚 Senior Lecturer, Department of Mechanical Engineering (On Study Leave), IUBAT—International University of Business Agriculture and Technology, Bangladesh
+---
 
-Here are some ideas to get you started:
+## 👨‍💻 About Me  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’m passionate about uncovering the **physics of biological and engineering flows** through the combined power of **Computational Fluid Dynamics (CFD)** and hands-on experiments.  
+
+My research explores:  
+- ⚙️ **Turbomachinery** – hydraulic performance optimization, cavitation and erosion studies, pump design improvements 
+- 🔬 **Biofluids** – thrombin-induced clot formation in pseudoaneurysms, flow obstruction in ureteral models, airflow in upper airways
+- 🧵 **Composite Materials** – design, synthesis, and evaluation of natural fiber reinforced composites, eco-friendly polymers, and additive manufacturing for biomedical applications
+---
+
+## 🌐 Connect with Me  
+
+🌎 Website: [me.iubat.edu/md-didarul-islam](https://me.iubat.edu/md-didarul-islam/)  
+💼 LinkedIn: [linkedin.com/in/islam-md-didarul](https://www.linkedin.com/in/islam-md-didarul)  
+🟢 ORCID: [0009-0009-8612-2802](https://orcid.org/0009-0009-8612-2802)  
+📘 Facebook: [facebook.com/didar566](https://www.facebook.com/didar566)  
+📧 Email: didar@gnu.ac.kr; me.didarul@gmail.com
+---
+
+## 🛠️ Skills & Tools  
+
+- **Core Expertise**: Teaching · Mechanical Design · Process Optimization  
+- **Programming & Data**: Python · MATLAB · C · Jupyter  
+- **Simulation & Analysis**: ANSYS CFX · ICEM CFD · CAD Tools (NX, SolidWorks, AutoCAD) 
+- **Research & Writing**: LaTeX · Technical Documentation · Academic Publishing  
+- **Other**: Git · Automation Tools  
+---
+
+## 📚 Publications  
+
+**Turbomachinery**
+- [Effects of cavitation and erosion on submersible drainage-A numerical study](https://doi.org/10.1063/5.0223126)
+- [Optimized impeller hydraulic performance of submersible drainage pumps-An experimental study](https://doi.org/10.1063/5.0243408)
+- [Cavitation and erosion effects on hydraulic performances of a submersible drainage pump](https://doi.org/10.1016/j.aej.2024.11.060)
+- [Numerical Simulation of Solid Liquid Two‐Phase Flow Analysis of Submersible Drainage Pumps](https://doi.org/10.1002/ird.3119)
+- [Back-turn Approach for Optimal Operation of Booster Pump Systems](https://doi.org/10.47176/jafm.18.9.3428)
+
+**Biofluids**
+- [Evaluation of renovated double J stents using ureter models with and without stenosis](https://doi.org/10.1007/s00345-024-04920-7)
+- [A new approach to evaluate obstructive sleep apnea according to body mass index using breathing diagram](https://doi.org/10.1063/5.0223081)
+- [Experimental and CFD analysis of flow impediments and encrustation in ureteral stents using in vitro urinary tract model](https://doi.org/10.1038/s41598-025-04248-1)
+- [Thrombin-induced thrombosis models for ultrasound-guided thrombin injection of femoral artery pseudoaneurysms](https://doi.org/10.1063/5.0279546)
+
+**Composite Materials**
+- [Analysis of epoxy composites reinforced with jute, banana, and coconut fibers and enhanced with Rubik's layer: tensile, bending, and impact performance evaluation](https://doi.org/10.1016/j.jmbbm.2023.106151)
+- [The Development of Eco-Friendly Biopolymers for Use in Tissue Engineering and Drug Delivery](https://doi.org/10.1155/2023/9270064)
+- [Synthesis and applications of natural fiber reinforced epoxy composites-A comprehensive review](https://doi.org/10.1002/pls2.10161)
+- [Additive manufacturing in bone science A cutting-edge review of its potential and progress](https://doi.org/10.1016/j.medntd.2025.100379)
+---
+
+## 🏆 Honors & Awards  
+
+🥇 Young Pioneer Researcher Award  
+🏅 Best Presentation Award  
+🎖️ Academic Excellence Award
+---
+
+## 🎓 Education  
+
+- **Ph.D.**: Mechanical & Aerospace Engineering – *Gyeongsang National University* (2025–2028)  
+- **M.Sc.**: Mechanical Engineering – *Gyeongsang National University* (2023–2025)  
+- **M.Sc.**: Mechanical Engineering – *Dhaka University of Engineering & Technology* (2019–2022)  
+- **B.Sc.**: Mechanical Engineering – *IUBAT* (2014–2017)    
+---
+
+## 👨‍🏫 Experience  
+
+### 🎓 Research  
+- **Doctoral Research Assistant** – GNU (2025–Present)  
+  - Funded by Glocal University 30 Project; working on CFD and biofluid projects.  
+- **Graduate Research Assistant** – GNU (2023–2025)  
+  - Biofluid experiments (ureteral tract models, pseudoaneurysm clotting, airflow dynamics)  
+  - Turbomachinery optimization of submersible drainage pumps  
+  - NRF-funded projects on **thrombin injection strategies** and **ureteral stent performance**  
+
+### 👩‍🏫 Teaching  
+- **Senior Lecturer** – IUBAT (2022–2023)  
+  - Taught Engineering Mechanics, Materials Science, and Manufacturing Engineering
+  - Supervised theses, projects, practicums
+- **Lecturer** – IUBAT (2020–2021)  
+  - Taught Mechanical Engineering Drawing, Basic Thermodynamics  
+  - Curriculum development aligned with BAETE accreditation  
+
+### 🛠 Industry  
+- **Assistant Engineer (Mechanical)** – Shams Engineering (2019)  
+  - Fire Pump Room & Plumbing System design and supervision  
+- **Internship Trainee** – Minister Hi-Tech Park (2017)
+---
+
+✨ *Engineering flows, optimizing machines, and innovating across biofluid and aerospace systems.*  
