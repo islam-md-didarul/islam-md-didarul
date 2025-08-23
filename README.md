@@ -130,9 +130,9 @@ My research explores:
   />
   <!-- Top languages -->
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=islam-md-didarul&layout=compact&langs_count=8&theme=radical"
-    alt="Top languages"
-    height="165"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=islam-md-didarul&layout=compact&langs_count=8&theme=radical&hide=Jupyter%20Notebook,Tex&v=2"
+  alt="Top languages"
+  height="165"
   />
 </p>
 
