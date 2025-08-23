@@ -3,7 +3,7 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=24&pause=1200&center=true&vCenter=true&width=900&lines=CFD+%E2%80%A2+Biofluids+%E2%80%A2+Turbomachinery+%E2%80%A2+Composites;Engineering+flows+with+CFD+%2B+Experiments;Open+to+research+collaborations"
+    src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=24&pause=1200&center=true&vCenter=true&width=900&lines=CFD+%E2%80%A2+Biofluids+%E2%80%A2+Turbomachinery+%E2%80%A2+Composites;Engineering+analysis+of+fluid+flows+using+CFD+%2B+Experiments;Open+to+research+collaborations"
     alt="Typing animation highlighting research areas"
   />
 </p>
