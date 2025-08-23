@@ -56,9 +56,9 @@ My research explores:
 
 ## 🏆 Honors & Awards  
 
-🥇 Young Pioneer Researcher Award  
-🏅 Best Presentation Award  
-🎖️ Academic Excellence Award
+- 🥇 Young Pioneer Researcher Award  
+- 🏅 Best Presentation Award  
+- 🎖️ Academic Excellence Award
 ---
 
 ## 🎓 Education  
@@ -66,7 +66,7 @@ My research explores:
 - **Ph.D.**: Mechanical & Aerospace Engineering – *Gyeongsang National University* (2025–2028)  
 - **M.Sc.**: Mechanical Engineering – *Gyeongsang National University* (2023–2025)  
 - **M.Sc.**: Mechanical Engineering – *Dhaka University of Engineering & Technology* (2019–2022)  
-- **B.Sc.**: Mechanical Engineering – *IUBAT* (2014–2017)    
+- **B.Sc.**: Mechanical Engineering – *IUBAT—International University of Business Agriculture and Technology* (2014–2017)    
 ---
 
 ## 👨‍🏫 Experience  
