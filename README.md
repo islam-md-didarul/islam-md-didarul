@@ -20,15 +20,6 @@ My research explores:
 - 🧵 **Composite Materials** – design, synthesis, and evaluation of natural fiber reinforced composites, eco-friendly polymers, and additive manufacturing for biomedical applications
 ---
 
-## 🌐 Connect with Me  
-
-- 🌎 Website: [me.iubat.edu/md-didarul-islam](https://me.iubat.edu/md-didarul-islam/)  
-- 💼 LinkedIn: [linkedin.com/in/islam-md-didarul](https://www.linkedin.com/in/islam-md-didarul)  
-- 🟢 ORCID: [0009-0009-8612-2802](https://orcid.org/0009-0009-8612-2802)  
-- 📘 Facebook: [facebook.com/didar566](https://www.facebook.com/didar566)  
-- 📧 Email: didar@gnu.ac.kr; me.didarul@gmail.com
----
-
 ## 🛠️ Skills & Tools  
 
 - **Core Expertise**: Teaching · Mechanical Design · Process Optimization  
@@ -98,5 +89,24 @@ My research explores:
   - Fire Pump Room & Plumbing System design and supervision  
 - **Internship Trainee** – Minister Hi-Tech Park (2017)
 ---
+
+## 🌐 Connect with Me  
+<p align="center">
+  <a href="mailto:didar@gnu.ac.kr">
+    <img src="https://img.shields.io/badge/Email-s.didar.iubat%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://www.linkedin.com/in/islam-md-didarul" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-islam--md--didarul-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://orcid.org/0009-0009-8612-2802" target="_blank">
+    <img src="https://img.shields.io/badge/ORCID-0009--0009--8612--2802-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID"/>
+  </a>
+  <a href="https://www.facebook.com/didar566" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-didar566-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+  </a>
+  <a href="https://me.iubat.edu/md-didarul-islam/" target="_blank">
+    <img src="https://img.shields.io/badge/Website-me.iubat.edu-111?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/>
+  </a>
+</p>
 
 ✨ *Engineering flows, optimizing machines, and innovating across biofluid and aerospace systems.*  
