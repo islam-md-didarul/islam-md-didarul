@@ -77,7 +77,7 @@ My research explores:
 ### 👩‍🏫 Teaching  
 - **Senior Lecturer** – IUBAT (January 2022 – August 2023)  
   - Taught Engineering Mechanics, Materials Science, and Manufacturing Engineering
-  - Supervised theses, projects, practicums
+  - Supervised theses, projects, and practicums
 - **Lecturer** – IUBAT (January 2020 – December 2021)  
   - Taught Mechanical Engineering Drawing, Basic Thermodynamics  
   - Curriculum development aligned with BAETE accreditation
