@@ -151,22 +151,6 @@ My research explores:
 </p>
 
 ## 📊 GitHub Stats
-
-<p align="center">
-  <!-- Main stats -->
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=islam-md-didarul&show_icons=true&include_a46_commits=true&count_private=true&rank_icon=github&hide=issues&theme=radical"
-    alt="GitHub stats"
-    height="165"
-  />
-  <!-- Top languages -->
-  <img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=islam-md-didarul&layout=compact&langs_count=8&theme=radical&hide=Jupyter%20Notebook,Tex&v=2"
-  alt="Top languages"
-  height="165"
-  />
-</p>
-
 <p align="center">
   <!-- Streak -->
   <img
