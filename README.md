@@ -53,8 +53,9 @@ My research explores:
 
 - 🥇 "Young Pioneer Researcher Award 2025" by Gyeongsang National University 
 - 🏅 "Best Presentation Award" by IAHR-Asia 2025 Conference
-- 🏅 "Miyan Publications Rewards" by IUBAT
-- 🎖️ "Academic Excellence Award" - 7 times by IUBAT
+- 🏅 "Miyan Publications Rewards" by IUBAT (2023)
+- 🎖️ "Academic Excellence Award" - 7 times by IUBAT (For SGPA 4.00/4.00 per semester)
+- 🎖️ "Academic Excellence Award ~ Dean's List" - 1 time by IUBAT (For Consecutive Three Semesters' SGPA 4.00/4.00)
 ---
 
 ## 🎓 Education  
