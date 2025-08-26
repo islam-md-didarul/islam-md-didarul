@@ -95,10 +95,10 @@ My research explores:
 - 🗞️ **Publication Highlight – KAIST Design News**  
   https://narangdesign.com/mail/kaist2/202502/sub4_3.php
 
-- 📰 **GNU Newsroom – Research Achievement**  
+- 📰 **GNU Newsroom – GNU Figures**  
   https://www.gnu.ac.kr/main/na/ntt/selectNttInfo.do?nttSn=2917184&mi=1290
 
-- 🏅 **GNU Announcement – Young Pioneer Researcher Award 2025**  
+- 🏅 **GNU Announcement – Research Achievement**  
   https://www.gnu.ac.kr/main/na/ntt/selectNttInfo.do?mi=1070&bbsId=1021&nttSn=3108463
 <p align="center">
   <img src="assets/assets.jpg" alt="News coverage and award highlights" width="840">
