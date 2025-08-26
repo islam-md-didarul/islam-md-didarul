@@ -54,16 +54,16 @@ My research explores:
 - 🥇 "Young Pioneer Researcher Award 2025" by Gyeongsang National University 
 - 🏅 "Best Presentation Award" by IAHR-Asia 2025 Conference
 - 🏅 "Miyan Publications Rewards" by IUBAT (2023)
-- 🎖️ "Academic Excellence Award" - 7 times by IUBAT (For SGPA 4.00/4.00 per semester)
-- 🎖️ "Academic Excellence Award ~ Dean's List" - 1 time by IUBAT (For Consecutive Three Semesters' SGPA 4.00/4.00)
+- 🎖️ "Academic Excellence Award" - 7 times by IUBAT (For SGPA 4.00/4.00 per Semester)
+- 🎖️ "Academic Excellence Award ~ Dean's List" - 1 time by IUBAT (For consecutive Three Semesters' SGPA 4.00/4.00)
 ---
 
 ## 🎓 Education  
 
-- **Ph.D.**: Mechanical & Aerospace Engineering – *Gyeongsang National University* (2025–2028)  
-- **M.Sc.**: Mechanical Engineering – *Gyeongsang National University* (2023–2025)  
-- **M.Sc.**: Mechanical Engineering – *Dhaka University of Engineering & Technology* (2019–2022)  
-- **B.Sc.**: Mechanical Engineering – *IUBAT—International University of Business Agriculture and Technology* (2014–2017)    
+- **Ph.D.**: Mechanical & Aerospace Engineering – *Gyeongsang National University* (2025–2028) [*Just Started*]  
+- **M.Sc.**: Mechanical Engineering – *Gyeongsang National University* (2023–2025) [*CGPA 4.21/4.50*]  
+- **M.Sc.**: Mechanical Engineering – *Dhaka University of Engineering & Technology* (2019–2022) [*CGPA 3.83/4.00*]  
+- **B.Sc.**: Mechanical Engineering – *IUBAT—International University of Business Agriculture and Technology* (2014–2017) [*CGPA 3.84/4.00*]   
 ---
 
 ## 👨‍🏫 Experience  
