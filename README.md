@@ -74,7 +74,7 @@ My research explores:
   - Turbomachinery optimization of submersible drainage pumps  
   - NRF-funded projects on **thrombin injection strategies** and **ureteral stent performance**  
 
-### 👩‍🏫 Teaching  
+### 👨‍🏫 Teaching  
 - **Senior Lecturer** – IUBAT (*January 2022 – August 2023*)  
   - Taught Engineering Mechanics, Materials Science, and Manufacturing Engineering
   - Supervised theses, projects, and practicums
