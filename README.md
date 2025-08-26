@@ -118,6 +118,18 @@ My research explores:
   <a href="https://orcid.org/0009-0009-8612-2802" target="_blank">
     <img src="https://img.shields.io/badge/ORCID-0009--0009--8612--2802-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID"/>
   </a>
+  <a href="https://scholar.google.com/citations?user=re2yAfAAAAAJ&hl=en" target="_blank">
+    <img src="https://img.shields.io/badge/Google%20Scholar-Profile-4285F4?style=for-the-badge&logo=Google%20Scholar&logoColor=white" alt="Google Scholar"/>
+  </a>
+  <a href="https://www.researchgate.net/profile/Md-Islam-929" target="_blank">
+    <img src="https://img.shields.io/badge/ResearchGate-Profile-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white" alt="ResearchGate"/>
+  </a>
+  <a href="https://sciprofiles.com/profile/IslamMdDidarul" target="_blank">
+    <img src="https://img.shields.io/badge/SciProfiles-Profile-111?style=for-the-badge&logo=readme&logoColor=white" alt="SciProfiles"/>
+  </a>
+  <a href="https://www.scopus.com/authid/detail.uri?authorId=58550940900" target="_blank">
+    <img src="https://img.shields.io/badge/Scopus-Author%20ID-FF6C00?style=for-the-badge&logo=Elsevier&logoColor=white" alt="Scopus"/>
+  </a>
   <a href="https://www.facebook.com/didar566" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-didar566-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
   </a>
@@ -125,6 +137,7 @@ My research explores:
     <img src="https://img.shields.io/badge/Website-me.iubat.edu-111?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/>
   </a>
 </p>
+
 
 <p align="center">
 ✨ I am passionate about analyzing fluid flows, optimizing machines, and innovating engineering across biofluid and aerospace systems. ✨
