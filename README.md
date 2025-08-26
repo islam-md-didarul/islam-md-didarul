@@ -140,7 +140,6 @@ My research explores:
   </a>
 </p>
 
-
 <p align="center">
 ✨ I am passionate about analyzing fluid flows, optimizing machines, and innovating engineering across biofluid and aerospace systems. ✨
 </p>
