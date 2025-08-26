@@ -95,10 +95,10 @@ My research explores:
 - 🗞️ [Publication Highlight – KAIST Design News](https://narangdesign.com/mail/kaist2/202502/sub4_3.php)  
   Featured for impactful research on fluid dynamics in the OSA of the upper airway.  
 
-- 🏅 [GNU Announcement – Best Presentation Award](https://www.gnu.ac.kr/main/na/ntt/selectNttInfo.do?mi=1070&bbsId=1021&nttSn=3108463)  
+- 🏅 [GNU Announcement – Best Presentation Award](https://www.gnu.ac.kr/main/na/ntt/selectNttInfo.do?nttSn=2917184&mi=1290)  
   Recognized for the best presentation award by **IAHR-Asia 2025**.  
 
-- 📰 [GNU Newsroom – Research Achievement](https://www.gnu.ac.kr/main/na/ntt/selectNttInfo.do?nttSn=2917184&mi=1290)  
+- 📰 [GNU Newsroom – Research Achievement](https://www.gnu.ac.kr/main/na/ntt/selectNttInfo.do?mi=1070&bbsId=1021&nttSn=3108463)  
   Featured for research publication in a Top JCR Journal based on CFD analysis of human arteries.  
 
 <p align="center">
