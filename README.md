@@ -84,7 +84,7 @@ My research explores:
 ### 🎓 Research  
 - **Doctoral Research Assistant** – GNU (*September 2025 – August 2028*)  
   - Funded by Glocal University 30 Project; working on CFD and biofluid projects.
-  - Grand Project - 3D CFD Analysis Using a Reduced Order Model for Non-Invasive Diagnosis of Obstructive Sleep Apnea [RS-2025-25420641] [Project Duration: 2025-09-01 ~ 2028-08-31]
+  - Grand Project - CFD Analysis of 3D Upper Airway Using a Reduced Order Model for Non-Invasive Diagnosis of Obstructive Sleep Apnea [RS-2025-25420641] [Project Duration: 2025-09-01 ~ 2028-08-31]
 - **Graduate Research Assistant** – GNU (*September 2023 – August 2025*)  
   - Biofluid experiments (ureteral tract models, pseudoaneurysm clotting, airflow dynamics)  
   - Turbomachinery optimization of submersible drainage pumps  
