@@ -10,7 +10,7 @@
 
 ## 👨‍💻 About Me  
 
-I’m passionate about uncovering the **physics of fluid flows in biological and engineering systems** through the combined power of **Computational Fluid Dynamics (CFD)** and hands-on experiments. Moreover, I am deeply motivated to explore the emerging fields of Digital Twin and Medical Twin technologies, utilizing my knowledge in fluid dynamics to connect simulation, AI, and Data-Driven methods for real-world applications. 
+I’m passionate about uncovering the **physics of fluid flows in biological and engineering systems** through the combined power of **Computational Fluid Dynamics (CFD)** and hands-on experiments. Moreover, I am deeply motivated to explore the emerging fields of **Digital Twin and Medical Twin** technologies, utilizing my knowledge in fluid dynamics to connect simulation, AI, and Data-Driven methods for real-world applications. 
 
 My research explores:  
 - ⚙️ **Turbomachinery** – hydraulic performance optimization, cavitation and erosion studies, pump design improvements 
