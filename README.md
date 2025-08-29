@@ -3,7 +3,7 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=30&pause=1200&center=true&vCenter=true&width=900&lines=University+Teacher+%E2%80%A2+Researcher+%E2%80%A2+Mechanical+Engineer;Focus+on+~+CFD+%E2%80%A2+Biofluids+%E2%80%A2+Turbomachinery+%E2%80%A2+Composites;Engineering+analysis+of+fluid+flows+using+CFD+%2B+Experiments;Motivated+to+explore+the+emerging+fields+of+AI+and+Digital+Twin;Open+to+Research+Collaborations"
+    src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=30&pause=1200&center=true&vCenter=true&width=900&lines=University+Teacher+%E2%80%A2+Researcher+%E2%80%A2+Mechanical+Engineer;Focus+on+~+CFD+%E2%80%A2+Biofluids+%E2%80%A2+Turbomachinery+%E2%80%A2+Composites;Engineering+analysis+of+fluid+flows+using+CFD+%2B+Experiments;Motivated+to+explore+the+emerging+fields+of+AI+&+Digital+Twin;Open+to+Research+Collaborations"
     alt="Typing animation highlighting research areas"
   />
 </p>
