@@ -109,34 +109,55 @@ My research explores:
 
 ---
 
-## 🌐 Connect with Me  
+## 🌐 Connect with Me
+
 <p align="center">
-  <a href="mailto:didar@gnu.ac.kr">
-    <img src="https://img.shields.io/badge/Email-didar%40gnu.ac.kr-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <!-- Email (label only) -->
+  <a href="mailto:didar@gnu.ac.kr" style="display:inline-block;margin:6px;">
+    <img alt="Email"
+         src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-  <a href="https://www.linkedin.com/in/islam-md-didarul" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-islam--md--didarul-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/islam-md-didarul" target="_blank" style="display:inline-block;margin:6px;">
+    <img alt="LinkedIn"
+         src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="https://orcid.org/0009-0009-8612-2802" target="_blank">
-    <img src="https://img.shields.io/badge/ORCID-0009--0009--8612--2802-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID"/>
+
+  <!-- ORCID -->
+  <a href="https://orcid.org/0009-0009-8612-2802" target="_blank" style="display:inline-block;margin:6px;">
+    <img alt="ORCID"
+         src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white">
   </a>
-  <a href="https://scholar.google.com/citations?user=re2yAfAAAAAJ&hl=en" target="_blank">
-    <img src="https://img.shields.io/badge/Google%20Scholar-Profile-4285F4?style=for-the-badge&logo=Google%20Scholar&logoColor=white" alt="Google Scholar"/>
+
+  <!-- Google Scholar -->
+  <a href="https://scholar.google.com/citations?user=re2yAfAAAAAJ&hl=en" target="_blank" style="display:inline-block;margin:6px;">
+    <img alt="Google Scholar"
+         src="https://img.shields.io/badge/GOOGLE%20SCHOLAR-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white">
   </a>
-  <a href="https://www.researchgate.net/profile/Md-Islam-929" target="_blank">
-    <img src="https://img.shields.io/badge/ResearchGate-Profile-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white" alt="ResearchGate"/>
+
+  <!-- ResearchGate -->
+  <a href="https://www.researchgate.net/profile/Md-Islam-929" target="_blank" style="display:inline-block;margin:6px;">
+    <img alt="ResearchGate"
+         src="https://img.shields.io/badge/RESEARCHGATE-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white">
   </a>
-  <a href="https://sciprofiles.com/profile/IslamMdDidarul" target="_blank">
-    <img src="https://img.shields.io/badge/SciProfiles-Profile-111?style=for-the-badge&logo=readme&logoColor=white" alt="SciProfiles"/>
+
+  <!-- Scopus -->
+  <a href="https://www.scopus.com/authid/detail.uri?authorId=58550940900" target="_blank" style="display:inline-block;margin:6px;">
+    <img alt="Scopus"
+         src="https://img.shields.io/badge/SCOPUS-FF6C00?style=for-the-badge&logo=elsevier&logoColor=white">
   </a>
-  <a href="https://www.scopus.com/authid/detail.uri?authorId=58550940900" target="_blank">
-    <img src="https://img.shields.io/badge/Scopus-Author%20ID-FF6C00?style=for-the-badge&logo=Elsevier&logoColor=white" alt="Scopus"/>
+
+  <!-- SciProfiles -->
+  <a href="https://sciprofiles.com/profile/IslamMdDidarul" target="_blank" style="display:inline-block;margin:6px;">
+    <img alt="SciProfiles"
+         src="https://img.shields.io/badge/SCIPROFILES-0F172A?style=for-the-badge&logo=readme&logoColor=white">
   </a>
-  <a href="https://www.facebook.com/didar566" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-didar566-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
-  </a>
-  <a href="https://me.iubat.edu/md-didarul-islam/" target="_blank">
-    <img src="https://img.shields.io/badge/Website-me.iubat.edu-111?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/>
+
+  <!-- Website (label only) -->
+  <a href="https://me.iubat.edu/md-didarul-islam/" target="_blank" style="display:inline-block;margin:6px;">
+    <img alt="Website"
+         src="https://img.shields.io/badge/WEBSITE-111111?style=for-the-badge&logo=googlechrome&logoColor=white">
   </a>
 </p>
 
