@@ -108,7 +108,7 @@ My research explores:
 
 ## 📰 Recent News about my Research and Awards
 
-- 🗞️ [Publication Highlight – KAIST Design News](https://narangdesign.com/mail/kaist2/202502/sub4_3.php)  
+- 🗞️ [Publication Highlight – News for BESCO Members](https://narangdesign.com/mail/kaist2/202502/sub4_3.php)  
   Featured for impactful research on fluid dynamics in OSA of the upper airway.  
 
 - 🏅 [GNU Announcement – Best Presentation Award](https://www.gnu.ac.kr/main/na/ntt/selectNttInfo.do?nttSn=2917184&mi=1290)  
