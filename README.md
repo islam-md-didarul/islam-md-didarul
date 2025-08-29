@@ -58,7 +58,7 @@ My research explores:
 - Analysis of encrustation formation in four types of ureteral stent considering the flow performance of artificial urine using an In Vitro experimental model [*26th International Conference of the Theoretical and Applied Mechanics (ICTAM 2024)*] [**South Korea**]
 
 **Domestic**
-- Analysis of encrustation formation at Double J Stent with a controlled flow rate using an In Vitro Bladder Model [*Korean Society of Cardiovascular Engineering - Summer Conference 2024*]
+- Analysis of encrustation formation at Double J Stent with a controlled flow rate using an In Vitro Bladder Model [*Biomedical Engineering Society for Circulation - Summer Conference 2024*]
 - Flow Performance and Encrustation Analysis at Ureteral Stents using an In Vitro Urinary System [*Korean Society of Mechanical Engineers - Winter Conference 2024*]
 ---
 
@@ -108,7 +108,7 @@ My research explores:
 
 ## 📰 Recent News about my Research and Awards
 
-- 🗞️ [Publication Highlight – News for BESCO Members](https://narangdesign.com/mail/kaist2/202502/sub4_3.php)  
+- 🗞️ [Publication Highlight – News of the BESCO Members](https://narangdesign.com/mail/kaist2/202502/sub4_3.php)  
   Featured for impactful research on fluid dynamics in OSA of the upper airway.  
 
 - 🏅 [GNU Announcement – Best Presentation Award](https://www.gnu.ac.kr/main/na/ntt/selectNttInfo.do?nttSn=2917184&mi=1290)  
