@@ -53,7 +53,7 @@ My research explores:
 
 **International**
 - Back-Turn method for energy optimization in Booster pump systems [*5th IAHR Asian Working Group Symposium on Hydraulic Machinery and Systems (IAHR-Asia 2025)*] [**South Korea**]
-- Effects of Cavitation and Erosion on the Hydraulic Performances of SDPs [*4th ASIAN WORKSHOP ON HYDRAULIC MACHINERY, 4AWHM-2025*] [**Japan**]
+- Effects of Cavitation and Erosion on the Hydraulic Performances of SDPs [*4th Asian Workshop on Hydraulic Machinery (4AWHM-2025)*] [**Japan**]
 - Percutaneous Thrombin Injection outcomes in Femoral Artery Pseudoaneurysms using Complex Pseudoaneurysm Models [*26th International Conference of the Theoretical and Applied Mechanics (ICTAM 2024)*] [**South Korea**]
 - Analysis of encrustation formation in four types of ureteral stent considering the flow performance of artificial urine using an In Vitro experimental model [*26th International Conference of the Theoretical and Applied Mechanics (ICTAM 2024)*] [**South Korea**]
 
