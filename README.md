@@ -52,14 +52,14 @@ My research explores:
 ## 📚 Conference Presentations  
 
 **International**
-- Percutaneous Thrombin Injection outcomes in Femoral Artery Pseudoaneurysms using Complex Pseudoaneurysm Models [*ICTAM 2024*] [**South Korea**]
-- Analysis of encrustation formation in four types of ureteral stent considering the flow performance of artificial urine using an In Vitro experimental model [*ICTAM 2024*] [**South Korea**]
+- Back-Turn method for energy optimization in Booster pump systems [*5th IAHR Asian Working Group Symposium on Hydraulic Machinery and Systems (IAHR-Asia 2025)*] [**South Korea**]
 - Effects of Cavitation and Erosion on the Hydraulic Performances of SDPs [*4th ASIAN WORKSHOP ON HYDRAULIC MACHINERY, 4AWHM-2025*] [**Japan**]
-- Back-Turn method for energy optimization in Booster pump systems [*IAHR-Asia 2025*] [**South Korea**]
+- Percutaneous Thrombin Injection outcomes in Femoral Artery Pseudoaneurysms using Complex Pseudoaneurysm Models [*26th International Conference of the Theoretical and Applied Mechanics (ICTAM 2024)*] [**South Korea**]
+- Analysis of encrustation formation in four types of ureteral stent considering the flow performance of artificial urine using an In Vitro experimental model [*26th International Conference of the Theoretical and Applied Mechanics (ICTAM 2024)*] [**South Korea**]
 
 **Domestic**
-- Analysis of encrustation formation at Double J Stent with a controlled flow rate using an In Vitro Bladder Model [*2024 순환기의공학회 하계학술대회*]
-- Flow Performance and Encrustation Analysis at Ureteral Stents using an In Vitro Urinary System [*KSME Winter Conference 2024*]
+- Analysis of encrustation formation at Double J Stent with a controlled flow rate using an In Vitro Bladder Model [*Korean Society of Cardiovascular Engineering - Summer Conference 2024*]
+- Flow Performance and Encrustation Analysis at Ureteral Stents using an In Vitro Urinary System [*Korean Society of Mechanical Engineers - Winter Conference 2024*]
 ---
 
 ## 🏆 Honors & Awards  
