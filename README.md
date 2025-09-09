@@ -64,11 +64,16 @@ My research explores:
 
 ## 🏆 Honors & Awards  
 
-- 🥇 "Young Pioneer Researcher Award 2025" by Gyeongsang National University 
-- 🏅 "Best Presentation Award" by IAHR-Asia 2025 Conference
-- 🏅 "Miyan Publications Rewards" by IUBAT (2023)
-- 🎖️ "Academic Excellence Award" - 7 times by IUBAT (For SGPA 4.00/4.00 per Semester)
-- 🎖️ "Academic Excellence Award ~ Dean's List" - 1 time by IUBAT (For consecutive Three Semesters' SGPA 4.00/4.00)
+- 2025 -	“**Best Presentation Award**” by IAHR-Asia 2025 Conference, South Korea
+- 2025 -	“**Young Pioneer Researcher Award 2025**” by Gyeongsang National University, South Korea
+- 2024 -	“**GNU Fellowship**” by Gyeongsang National University, South Korea
+- 2023 -	“**Miyan Publications Rewards**” by IUBAT, Bangladesh
+- 2017 -	“**Academic Excellence Award ~ Dean's List**” by IUBAT, Bangladesh (For consecutive 3 semesters’ SGPA 4.00/4.00)
+- 2017 -	“**Academic Excellence Award**” by IUBAT, Bangladesh (For semesters’ SGPA 4.00/4.00) - **thrice**
+- 2016 -	“**Academic Excellence Award**” by IUBAT, Bangladesh (For semesters’ SGPA 4.00/4.00) - **twice**
+- 2015 -	“**Academic Excellence Award**” by IUBAT, Bangladesh (For semesters’ SGPA 4.00/4.00) - **twice**
+- 2015 -	“**Certificate Award with One Year Membership**” as top participant of Book Reading by the British Council, Bangladesh
+- 2014 -	“**100% Tuition Fee Waiver Scholarship**” by IUBAT, Bangladesh (For GPA 5.00/5.00 both in SSC and HSC)
 ---
 
 ## 🎓 Education  
