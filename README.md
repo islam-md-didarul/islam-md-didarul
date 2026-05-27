@@ -61,7 +61,7 @@
 </p>
 
 <p align="center">
-✨ I am passionate about analyzing fluid flows, optimizing machines, and innovating engineering across biofluid and aerospace systems. ✨
+✨I am passionate about analyzing fluid flows, optimizing and innovating engineering across biofluid and turbomachinery systems.✨
 </p>
 
 <p align="center">  
